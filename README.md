@@ -7,15 +7,14 @@
 ###
 
 <div align="center">
-  <h2 align="left">Minhas estatísticas 📊</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erica-beatriz&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="220" alt="activity graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erica-beatriz&locale=pt_br&hide_title=true&layout=compact&card_width=350&langs_count=6&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph" />
+    <h2 align="left"> My statistics 📊</h2>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erica-beatriz&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erica-beatriz&locale=en&hide_title=true&layout=compact&card_width=600&langs_count=12&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph"/>
 </div>
 
-##
-
-<img align="right" height="220" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="flores se movendo" />
+<img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGEyYzY1NmRnNDJ0d3d6aDA3bWM3cjM0d2VkN2RyeGJoNHFib2g3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/49M1JQPy7RhD2/giphy.gif" alt="flores se movendo" />
 
 <div align="left">
   <h3 align="left">Meus conhecimentos e ferramentas</h3><br/>
@@ -36,11 +35,13 @@
 
 ## Vamos nos conectar? 🌈
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/erica_beatriz)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bia_beatrizer)
 
----
+<br clear="both">
 
 <p align="center">
   Obrigada pela visita! 💜  
   Vamos codar e criar coisas incríveis juntos! 🚀✨
 </p>
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
